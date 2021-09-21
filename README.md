@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ayush933
 - 👀 I’m interested in Competetive Programming and Image processing  
 - 🌱 I’m currently learning Image processing 
-- 💞️ I’m looking to collaborate on nothing(might change soon)
 - 📫 mrayushs933@gmail.com
 
 <!---
