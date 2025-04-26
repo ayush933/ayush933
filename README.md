@@ -17,4 +17,4 @@ Personal github stats:
 
 Wakatime stats (Professional + Personal) 
 
-[![Ayush's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayush933&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+[![Ayush's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayush933&layout=compact&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
